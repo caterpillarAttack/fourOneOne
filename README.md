@@ -6,7 +6,6 @@ The intent is to collect as much data as possible from the site that is publical
 Current Capabilities
 - Can look up listings by postal code.
 - Grab personal details for postal code, phone number, phone connection type, telecom provider, city, province, street address, geo location information (Latitude and Longitude), and name.
-- 
 
 Ideas I currently have are:
 - See if I can scrounge JSON data some way.
