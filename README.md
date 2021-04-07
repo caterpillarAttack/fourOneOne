@@ -14,5 +14,6 @@ Ideas I currently have are:
 
 
 Hopefully the video embed works, if it doesnt give it a download to see this monster in action.
+
 ![Sample Video](geolocations.webm)
 
